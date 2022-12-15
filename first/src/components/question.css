@@ -1,0 +1,14 @@
+.questionContainer{
+    height: 100px;
+    width: 700px;
+    background-color: blue;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 20px;
+    padding: 50px;
+}

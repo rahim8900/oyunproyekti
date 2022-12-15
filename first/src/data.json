@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "question": "Domino daşları içində çəkisinə görə ən yüngül olanı məhz, budur:",
+            "content": [
+                "6 qoşa",
+                "5 qoşa",
+                "ağ qoşa",
+                "1 qoşa"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Hansı elektriki daha yaxşı keçirir?",
+            "content": [
+                "Mis",
+                "Gümüş",
+                "Qızıl",
+                "Alüminium"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "30′ u yarıma bölüb 10 əlavə etdiniz, neçə etdi?",
+            "content": [
+                "45",
+                "70",
+                "600",
+                "25"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "11 sentyabr hadisəsi hansı ildə baş verib?",
+            "content": [
+                "2002",
+                "2000",
+                "2001",
+                "1999"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "ABŞ-ın hansı ştatı ərazisinə görə ən böyükdür?",
+            "content": [
+                "Hawaii",
+                "California",
+                "Texas",
+                "Alaska"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Azərbaycanın ən yüksək  yeri olan Bazardüzü nə qədər hündürlükdə yerləşir? ",
+            "content": [
+                "3366",
+                "4466",
+                "5566",
+                "3566"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "2-5×4+7=?",
+            "content": [
+                "19",
+                "-11",
+                "-53",
+                "33"
+            ],
+            "correct": 1
+        },
+        {
+            "question": " Evin bağçasındakı otlar hər gün əvvəlki gündən iki dəfə çox böyüyür. Ot 10 günə bütün bağı örtürsə, hansı gündə onun yarısını örtəcək?",
+            "content": [
+                "5",
+                "8",
+                "9",
+                "7"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Əli və Vüqar birlikdə ərzaq mağazasına gedirlər. Onların məqsədi ərzaq mağazasından şokolad almaqdır. Amma dükanına çatanda anlayırlar ki, Əlinin şokolad almağa 24 qəpik, Vüqarın isə 2 qəpiyi çatmır. Bundan sonra Əli özündə olan pulları Vüqara verir. Amma yenədə bir şokalat almağa pulları qalmır. Şokalatın qiyməti nəçə qəpikdir?",
+            "content": [
+                "25",
+                "26",
+                "27",
+                "28"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Azərbaycanda ölüm hökmü nə vaxt ləğv olunub?",
+            "content": [
+                "10 yanvar 1996-cı il",
+                "7 fevral 1997-ci il",
+                "10 fevral 1998-ci il ",
+                "7 yanvar 1999-cu il"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "",
+            "content": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "correct": 1
+        }
+    ]
+}

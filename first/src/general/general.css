@@ -1,0 +1,19 @@
+.general{
+    width: 100%;
+}
+
+.header{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.body{
+    width: 60%;
+    margin: auto;
+}
+.screen{
+    width: 100vw;
+    height: 100vh;
+    background-color: deepskyblue;
+}
