@@ -49,8 +49,8 @@ export default function General() {
           setOverScore={setOverScore}
         />
       </div>
-      {win && !gameOver && <End content="Təbriklər! Bütün suallara düzgün cavab verdiniz!" score={score} />}
-      {!win && gameOver && <End content="Səhv cavab. Oyun bitdi!" score={overScore} />}
+      {win && !gameOver && <End content="Təbriklər! Bütün suallara düzgün cavab verdiniz!" score={score} colorbg={"green"} />}
+      {!win && gameOver && <End content="Səhv cavab. Oyun bitdi!" score={overScore}  colorbg={"red"}/>}
     </div>
 
     </div>
