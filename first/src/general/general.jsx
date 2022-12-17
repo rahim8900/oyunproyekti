@@ -15,19 +15,21 @@ export default function General() {
   const [win, setWin] = useState(false);
   const [gameOver, setGameOver] = useState(false);
   const chechId = () => {
-    if (id==10){
-        return setWin(true);
-    }
-    else{
-        return null;
+    if (id == data.questions.length){
+        return true;
+    } else {
+        return false;
     }
   };
 
   useEffect(() => {
-    setQuestions(data.questions[id].question);
-    setAnswers(data.questions[id].content);
-    setCorrectVariant(data.questions[id].correct);
-    chechId();
+    if (!chechId()) {
+      setQuestions(data.questions[id].question);
+      setAnswers(data.questions[id].content);
+      setCorrectVariant(data.questions[id].correct);
+    } else {
+      setWin(true);
+    }
   }, [id]);
 
   return (

@@ -1,5 +1,6 @@
 import React from "react";
 import "./answers.css";
+import data from "../data.json";
 export default function Answer({
   answers,
   setId,
@@ -7,13 +8,14 @@ export default function Answer({
   id,
   score,
   setScore,
+  setWin,
   setGameOver,
   setOverScore
 }) {
   const checkAnswer = (isTrue) => {
     if (isTrue) {
-      setId((id += 1))
-      setScore((score += 500))
+        setId((id += 1))
+        setScore((score += 500))
     }
     else {
       setGameOver(true)
