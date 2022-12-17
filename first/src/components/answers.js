@@ -1,6 +1,5 @@
 import React from "react";
 import "./answers.css";
-import data from "../data.json";
 export default function Answer({
   answers,
   setId,
@@ -8,7 +7,6 @@ export default function Answer({
   id,
   score,
   setScore,
-  setWin,
   setGameOver,
   setOverScore
 }) {
