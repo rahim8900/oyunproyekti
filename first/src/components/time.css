@@ -1,0 +1,13 @@
+.time {
+    color: white;
+    background-color: blue;
+    border-radius: 15px;
+    width: 200px;
+    height: 70px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-right: 30px;
+  }
